@@ -1,1 +1,3 @@
-# DockerProject
+# Запуск контейнера
+docker compose up -d
+
